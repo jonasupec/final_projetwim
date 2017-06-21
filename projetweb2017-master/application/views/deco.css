@@ -1,0 +1,31 @@
+form {
+   padding: 15px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+    left:15%;
+    text-align: center;
+    border: 1px ridge black;
+    -moz-border-radius:10px 0;
+    -webkit-border-radius:10px 0;
+    border-radius:10px 0;
+} 
+
+input {
+    display: block;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#secondbut {
+    margin-top: 1cm;
+}
+
+html {
+  background-color: lightblue;
+}
